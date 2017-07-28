@@ -1,1 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="primary">#FFD700</color>
+	<color name="dark_bg_chat">#3C3C3B</color>
+	<color name="primary_dark">#FFD700</color>
+	<color name="accent">#FFD700</color>
+	<color name="list_divider">#E1E1E1</color>
+	<color name="bg_bubble_self">#E1E1E1</color>
+	<color name="header_text">#000000</color>
+	<color name="background_color">#808080</color>
+	<color name="green_color">#4DA93D</color>
+	<color name="red_color">#BF524A</color>
+	<color name="bg_gray_color">#EDEDED</color>
+</resources>
